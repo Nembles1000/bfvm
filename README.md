@@ -9,5 +9,5 @@ cmake --build build
 ```
 ## Run
 ```
-./build/bfvm examples/bfvm
+./build/bfvm <bf file>
 ```
